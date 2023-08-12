@@ -1,6 +1,6 @@
-*** Rosetta-MIDAS_dust_maps ***
+***Rosetta-MIDAS_dust_maps***
 
-Collection of MIDAS dust particle maps
+**Collection of MIDAS dust particle maps**
 
 1. 2D MIDAS dust coverage map
 2. 3D MIDAS dust coverage map
