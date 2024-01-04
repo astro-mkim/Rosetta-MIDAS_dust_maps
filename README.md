@@ -12,7 +12,7 @@
 - MIDAS dust convexity map
 - MIDAS dust pristineness map
 
-For the details, please refer to MIDAS studies (e.g., dust coverage and clustering maps; Kim et al. 2023a; dust shape descriptor maps; Kim et al. 2023b; A&A Volume 678, id.A179, 38 pp.).
+For the details, please refer to MIDAS studies (e.g., dust coverage and clustering maps; Kim et al. 2023a; dust shape descriptor maps; Kim et al. 2023b; A&A Volume 678, id.A179, 38 pp).
 
 MIDAS/Rosetta dust particle catalogue (Kim et al. 2023a) can be found in the ESA planetary science archive of MIDAS/Rosetta (PSA 6.2.4), dataset identifier: RO-C-MIDAS-5-PRL-TO-EXT3-V3.0, VizieR Online Data Catalog(https://ui.adsabs.harvard.edu/abs/2023yCat..36730129K/abstract), or provided upon the request (in pandas data frame/CSV form).
 
